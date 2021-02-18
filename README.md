@@ -11,7 +11,7 @@ _(CSS still a work-in-progress)_
 
 ## API Landing Page:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://afternoon-dawn-05389.herokuapp.com/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://desolate-springs-67598.herokuapp.com/
 
 ### Client
 
@@ -19,7 +19,7 @@ _(CSS still a work-in-progress)_
 
 ### Client GitHub:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://github.com/patience144/projecttracker
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://github.com/patience144/projecttracker-client
 
 ### Deployment Platform:
 
