@@ -2,6 +2,8 @@ const app = require('./app');
 const { PORT, DATABASE_URL, TEST_DATABASE_URL, NODE_ENV } = require('./config');
 const knex = require('knex');
 
+const pg = require('pg');
+pg.defaults.ssl = process.env.NODE_ENV === "production";
 app.set('db', knex({
   client: 'pg',
   connection: (NODE_ENV==='test') ? TEST_DATABASE_URL : DATABASE_URL
